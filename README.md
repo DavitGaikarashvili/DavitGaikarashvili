@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavitGaikarashvili
+- 👋 Hi, I’m DavitGaikarashvili
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning unreal engine 5
 - 📫 davitgaikarashvili@gmail.com
