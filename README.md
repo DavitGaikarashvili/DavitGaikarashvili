@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **everything about making games**
 
-- 📫 How to reach me **davitgaikarashvili@gmail.com**
+- 📫 How to reach me **gaikarashvili.daviti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/daviti gaikarashili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviti gaikarashili" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/daviti gaikarashili](https://www.linkedin.com/in/daviti-gaikarashili-7710272a4/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daviti gaikarashili" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
